@@ -155,6 +155,7 @@ coachRender();
       tab.setAttribute('aria-selected', String(selected));
       tab.tabIndex = selected ? 0 : -1;
     });
+    active.scrollIntoView({block: 'nearest', inline: 'nearest', behavior: 'instant'});
     document.title = active.textContent.trim().replace(/^\d+\s*/, '') + ' | ' + baseTitle;
     if (target) {
       for (let el = target; el && el !== panel; el = el.parentElement) {
