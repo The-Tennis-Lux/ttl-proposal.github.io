@@ -28,3 +28,7 @@ GitHub 저장소의 Settings → Pages에서 `Deploy from a branch`, `main`, `/ 
 상단 탭을 선택하면 해당 화면만 표시됩니다. `#overview`, `#layout`, `#features`, `#budget`, `#decisions`로 직접 열 수 있고 세부 항목 링크와 브라우저 뒤로/앞으로 이동도 지원합니다. 키보드는 좌우 방향키·Home·End로 탭을 이동하고 Enter 또는 Space로 선택합니다. Tab 키로 선택한 화면에 진입할 수 있습니다.
 
 탭을 바꿔도 계산기 입력과 회원 승인 예시 상태를 유지합니다. 새로고침하면 예시 상태는 초기화됩니다. 인쇄/PDF에는 전체 내용을 표시하며 JavaScript가 꺼져 있으면 기존 문서처럼 전체를 읽을 수 있습니다.
+
+### 제공 기능의 상세 탭
+
+제공 기능 화면 안에 랜딩·상담·회원가입/코치 승인·공개 갤러리·일정 탭이 있습니다. 각각 `#feature-landing`, `#feature-consultation`, `#feature-membership`, `#feature-gallery`, `#feature-schedule` 주소로 바로 열 수 있습니다. 기존 `#coach`, `#consultation`, `#gallery-policy` 링크도 해당 상세 탭을 자동으로 엽니다. 상세 탭도 동일한 키보드 탐색·뒤로가기·인쇄 규칙을 적용합니다. 실제 접수·게시·예약을 실행하지 않는 설명용 화면입니다.
