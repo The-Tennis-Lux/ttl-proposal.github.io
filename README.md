@@ -31,8 +31,8 @@ GitHub 저장소의 Settings → Pages에서 `Deploy from a branch`, `main`, `/ 
 
 ### 제공 기능의 상세 탭
 
-제공 기능 화면 안에 랜딩·상담·회원가입/코치 승인·공개 갤러리·일정 탭이 있습니다. 각각 `#feature-landing`, `#feature-consultation`, `#feature-membership`, `#feature-gallery`, `#feature-schedule` 주소로 바로 열 수 있습니다. 기존 `#coach`, `#consultation`, `#gallery-policy` 링크도 해당 상세 탭을 자동으로 엽니다. 상세 탭도 동일한 키보드 탐색·뒤로가기·인쇄 규칙을 적용합니다. 실제 접수·게시·예약을 실행하지 않는 설명용 화면입니다.
+제공 기능 화면 안에 랜딩·상담·회원가입/코치 승인·공개 갤러리 탭이 있습니다. 각각 `#feature-landing`, `#feature-consultation`, `#feature-membership`, `#feature-gallery` 주소로 바로 열 수 있습니다. 기존 `#coach`, `#consultation`, `#gallery-policy` 링크도 해당 상세 탭을 자동으로 엽니다. 상세 탭도 동일한 키보드 탐색·뒤로가기·인쇄 규칙을 적용합니다. 실제 접수·게시·예약을 실행하지 않는 설명용 화면입니다.
 
-## 2026-11-05 일정 기능 보류
+## 2026-11-05 일정관리 제외 확정
 
-동호회 일정은 기존 오픈카톡에서 운영합니다. 웹 일정 등록·참가·취소·대기·알림은 1차에서 보류하고 중복 이용의 불편과 필요성을 더 검토합니다. 기존 `#feature-schedule` 주소는 보류 안내를 보여줍니다. 상담 채널 선택은 별개로 미정입니다.
+일정관리는 1차 웹 제공 기능에서 제외합니다. 기존 오픈카톡에서 계속 운영하며 웹 일정 등록·참가·취소·대기·일정 알림·자동 연동은 제공하지 않습니다. 일정 상세 탭과 기능 예시는 제거했습니다. 기존 `#feature-schedule` 주소는 제공 기능 화면 안의 제외 안내로 연결됩니다. 상담 채널 선택은 별개로 미정입니다.
